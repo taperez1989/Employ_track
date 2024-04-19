@@ -1,6 +1,6 @@
 # Employ_track
 
-link to deployed site:
+link to deployed site:https://taperez1989.github.io/Employ_track/
 
 For this project we needed to add into the starter code and complete it in order for the user to add in employees information and then repeat the process until complete and then display the information.
 
